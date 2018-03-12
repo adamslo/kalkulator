@@ -1,0 +1,3 @@
+Krótkie objaśnienie działania.
+
+W programie wykorzystanie zostały komponenty awt oraz swing. Kalkulator ma 4 podstawowe operacje: dodaje, odejmuje, dzieli oraz mnoży. Liczba zostaje pobrana od użytkownika. Program wymaga doszlifowania, kontroli błędów, ale ja ograniczyłem się do pokazania że działa, zwłaszcza iż dopiero zaznajamiam się z tematyką grafiki w javie.
